@@ -2,7 +2,13 @@
 <h3 align="center">A Linux addicted from Brazil.</h3>
 
 - 📘 UTFPR-SH - B.Sc Computer Science
-- 🖥️ @lamiautfpr | LAMIA - Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria 
+- 🖥️ @lamiautfpr | LAMIA - Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria
+  
+<hr>  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=glweber&label=Profile%20views&color=0e75b6&style=flat" alt="glweber" /> </p>
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
