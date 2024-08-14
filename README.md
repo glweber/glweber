@@ -2,7 +2,7 @@
 <h3 align="center">A Linux addicted from Brazil.</h3>
 
 - 📘 UTFPR-SH - B.Sc Computer Science
-- 🖥️ @lamiautfpr | LAMIA - Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria
+- 🖥️ @lamiautfpr | LAMIA - Laboratório de Aprendizado de Máquina Aplicado à Indústria
 - 🛰️ NORTE - Núcleo de Referênca em Tecnologias Espaciais
   
 <h3 align="left">Connect with me:</h3>
