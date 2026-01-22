@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Weber</h1>
 <h3 align="center">A Linux addicted from Brazil.</h3>
 
-- 📘 UTFPR-SH - B.Sc Computer Science
+- 📘 BSc Computer Science
 - 🖥️ @lamiautfpr | LAMIA - Laboratório de Aprendizado de Máquina Aplicado à Indústria
 - 🛰️ NORTE - Núcleo de Referênca em Tecnologias Espaciais
   
