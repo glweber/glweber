@@ -2,6 +2,7 @@
 <h3 align="center">A Linux addicted from Brazil.</h3>
 
 - 📘 BSc Computer Science
+- MSc Student @ INF-UFG
 - 🖥️ @lamiautfpr | LAMIA - Laboratório de Aprendizado de Máquina Aplicado à Indústria
 - 🛰️ NORTE - Núcleo de Referênca em Tecnologias Espaciais
   
